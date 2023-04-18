@@ -1,0 +1,6 @@
+进入 google play 开发者后台
+进入应用详情
+应用详情侧边菜单栏 "Pubishing overview" 项中打开 "Managed publishing"（可以随时开关）
+直接发布正式版本（也可以是测试版本, 市场信息）
+发布后可以在 "Pubishing overview" 界面看到审核情况
+审核通过后应用状态会显示 "Ready to publish" ，"Pubishing overview" 界面的 "Changes ready to publish" 也会更新对应的状态，且可以直接点击 "Publish XXX changes" 立即全面发布相关操作，全面发布后1小时内会更新 google play 市场
